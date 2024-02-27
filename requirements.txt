@@ -1,0 +1,2 @@
+requests
+win11toast
