@@ -5,7 +5,7 @@ anyone that want to skip the captcha.
 
 The program is simple, you just type the order code, and then go do anything while the app run, you will be notified when your order status change.
 
-If <a href="rastreamento.correios.com.br">correios</a> are reading this. Yes, i am a robot.
+In case of <a href="rastreamento.correios.com.br">correios</a> read this. Yes, i am a robot.
 
 Pre-requisites to use this program:
 <ul>
