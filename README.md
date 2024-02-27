@@ -1,5 +1,10 @@
 ### What is this program , and how it works..
 
+Whew, this program was created because i was tired of doing the <a href="rastreamento.correios.com.br">correios</a> captchas for each consult, so i wrote this script for
+anyone that want to skip the captcha.
+
+The program is simple, you just type the order code, and then go do anything while the app run, you will be notified when your order status change.
+
 Pre-requisites to use this program:
 <ul>
   <li>Python 3.X.X</li>
